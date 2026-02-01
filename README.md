@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi there 👋, I'm Fakhri
 
-<!--
-**fakhriaditiarahman/fakhriaditiarahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./fakhriaditiarahman-space-shooter.gif" alt="Space Shooter Animation" />
+</p>
 
-Here are some ideas to get you started:
+💻 Full Stack Developer  
+📍 Indonesia  
+🚀 Passionate about Web Development & UI/UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 🔭 Currently working on web-based applications
+- 🌱 Learning more about Laravel, UI/UX, and modern frontend
+- 👨‍💻 Love building useful systems for education & institutions
+- ☕ Ngoding sambil ngopi lebih fokus
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- HTML, CSS, JavaScript
+- Tailwind CSS, Bootstrap
+- React (basic)
+
+**Backend**
+- PHP (Laravel)
+- CodeIgniter
+- REST API
+
+**Database**
+- MySQL
+- PostgreSQL
+
+**Tools**
+- Git & GitHub
+- Figma
+- VS Code
+- Linux (Fedora)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fakhriaditiarahman&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhriaditiarahman&layout=compact&theme=tokyonight)
+
+---
+
+## 📌 Featured Projects
+- 🎓 **Portal Informasi & Agenda Fakultas**  
+  Laravel-based role management system  
+
+- 🐾 **PetMart**  
+  Online pet shop with modern UI/UX  
+
+---
+
+## 📫 Connect with Me
+- 🌐 Portfolio: https://your-portfolio.com
+- 📷 Instagram: https://instagram.com/username
+- 💼 LinkedIn: https://linkedin.com/in/username
+- 📧 Email: your@email.com
+
+---
+
+⭐️ Feel free to check out my repositories and give a star!
