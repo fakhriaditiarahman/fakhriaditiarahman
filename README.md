@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Fakhri
+# Hi there 👋, I'm Fakhri Aditia Rahman
 
 <p align="center">
   <img src="./fakhriaditiarahman-space-shooter.gif" alt="Space Shooter Animation" />
@@ -14,7 +14,7 @@
 - 🔭 Currently working on web-based applications
 - 🌱 Learning more about Laravel, UI/UX, and modern frontend
 - 👨‍💻 Love building useful systems for education & institutions
-- ☕ Ngoding sambil ngopi lebih fokus
+- ☕ Ngoding sambil ngopi
 
 ---
 
@@ -66,10 +66,10 @@
 ---
 
 ## 📫 Connect with Me
-- 🌐 Portfolio: https://your-portfolio.com
-- 📷 Instagram: https://instagram.com/username
-- 💼 LinkedIn: https://linkedin.com/in/username
-- 📧 Email: your@email.com
+- 🌐 Portfolio: https://fakhriaditiarahman.vercel.app/
+- 📷 Instagram: https://www.instagram.com/fvkhriar/
+- 💼 LinkedIn: https://www.linkedin.com/in/fakhri-aditia-rahman-36b54229b/
+- 📧 Email: fakhriaditiarahman12@gmail.com
 
 ---
 
