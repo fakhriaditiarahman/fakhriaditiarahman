@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Fakhri Aditia Rahman
 
 <p align="center">
-  <img src="./fakhriaditiarahman-space-shooter.gif" alt="Space Shooter Animation" />
+  <img src="./1762874285729.jpeg" alt="Banner" />
 </p>
 
 💻 Full Stack Developer  
