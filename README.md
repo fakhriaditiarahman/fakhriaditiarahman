@@ -17,10 +17,5 @@
 -  LinkedIn: https://www.linkedin.com/in/fakhri-aditia-rahman-36b54229b/
 - 📧 Email: fakhriaditiarahman12@gmail.com
 
----
-<p align="center">
-  <img src="./fakhriaditiarahman-space-shooter.gif
-" alt="Space Shooter" />
-</p>
 
 ⭐️ Feel free to check out my repositories and give a star!
